@@ -1,0 +1,92 @@
+* diet
+My diet. It's pretty efficient and healthy. I'm not a doctor so use at your own risk.
+
+** Notes
+- All meals are made in the rice cooker! Of course you can make things using
+  other methods as well, rice cookers are just great for asynchronous cooking.
+- Just use the recommended amount of water and cooking times and it should work
+  fine. If you find that you want to make your food firmer or softer just modify
+  the amount of water slightly.
+- While following this diet, you need to supplement the following two nutrients:
+  - Iodine: 1/2 teaspoon of iodized salt will work fine here. Included in this
+    diet in the spice mix.
+  - Vitamin B12: This diet doesn't include any animal products so long term you
+    will need have a source for this. This can be the occasional animal product
+    or a B vitamin complex. Do your research on this if adapting for the long term.
+- This diet is really high in fiber so expect some minor discomfort for the
+  first couple of weeks -- especially if you've been eating a low fiber
+  diet. You need to give your gut biome time to readjust its population to the
+  new food source.
+- During the first week I would do half of the recommended doses of beans. Beans
+  are amazing for you, but contain oligosaccharides which your stomach can't
+  digest. The result is these don't get processed until your lower intestine
+  where bacteria eat them up and produce a lot of gas leading to bloating and
+  even some minor stomach pain for the first few days.
+
+  To ease this discomfort be sure to use a good apple cider vinegar (Braggs
+  organic with 'the mother') as it will give you the enzymes to break down
+  oligosaccharides easier. I'm not sure how you're body gets more efficient at
+  processing beans but it does and by the second week you can move up to the
+  full recommended dose of beans.
+- Don't worry about 'getting enough protein'. Not going to take the time to cite
+  sources but the WHO recommends a 170lb, fairly active male to get 50g of
+  protein a day. Longevity researchers from UCLA recommend no more than 1/3 of
+  your weight in pounds grams per day to optimize for longevity. All plants have
+  protein and you'll be getting plenty with this diet as long as your not
+  training heavily for athletics. And let's be real -- if you are why the hell
+  are you taking diet advice from a software developer? 
+- Adding ground mustard powder to broccoli is an optimization for maximizing
+  bio-availability of sulforaphane -- a really promising anti-cancer compound.
+- Probably the biggest ROI thing you could do is add ground flax seed to your diet --
+  1tbsp / day is huge for your health.
+- You should no longer feel a food coma after eating. Seriously you should just
+  have sustained energy throughout the day.
+
+** The Meal Plan
+*** Breakfast
+- 1/4 cup steel cut oats
+  - steel cut burn slower than rolled oats 
+- 1/2 cup water
+- 1tbsp chia seeds 
+  - this is optional -- I do it for some healthy calories
+- 2tbsp peanut butter
+  - peanuts (and maybe salt) should be the only ingredient (I use teddies)
+  - Don't need to measure this perfectly -- a big glob will do
+- 1tbsp Ceylon cinnamon
+  - Don't use normal cinnamon in high quantities like this as it is hepatotoxic
+  - good source for [[https://www.olivenation.com/][Ceylon Cinnamon]] 
+- 1/2 cup frozen berries
+- After the meal is done cooking:
+  - 1 banana
+*** Lunch/Dinner
+I use the same meal for lunch and dinner, I just typically use different veggies!
+- 1/4 cup quinoa
+  - Can also sub out for a cup of sweet potatoes. Lower on calories and takes
+    more time to eat but much healthier for you.
+- 1/2 cup water
+- 1 tbsp olive oil
+  - get the stuff in an aluminum tin so it doesn't photo-degrade
+- 1tsp spice mix
+  - Spice mix is equal parts:
+    - iodized salt
+    - black pepper
+    - turmeric
+    - rosemary
+  - You should always bulk mix this and store in a Tupperware. I usually mix a
+    1/4 cup at a time of each ingredient. Trust me this saves a ton of time.
+- 1/2 can of canned beans
+  - Don't use raw beans and expect the rice cooker to cook them for you. Beans
+    can be very toxic if under-cooked! Like one meal of under-cooked red kidney
+    beans will put you in the hospital.
+- A lot of veggies. I usually just fill up the rice cooker rather than measuring
+  out -- obviously this will vary with the size of your rice cooker. 
+  - Veggie tier list
+    - broccoli 
+    - carrots
+    - red cabbage
+    - sweet potato
+    - any other vegetable
+- After the meal is done cooking:
+  - a splash of Bragg's Apple cider vinegar
+  - a bit of mustard powder
+
